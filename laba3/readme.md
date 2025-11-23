@@ -5,11 +5,11 @@
 <center>Хід роботи </center>
 На цій лабораторній роботі я розробив такі програми,також виконав приклади з лекцій в окремому файлі ось посилання на кожен із них :
 
--  [lab3_ind_tasks.ipynb](/lab3_ind_tasks.ipynb)
-- [lab_3.ipynb](/lab_3.ipynb)
-- [note.py](/note.py)
+-  [laba3_ind_tasks.ipynb](/laba3_ind_tasks.ipynb)
+- [laba3.ipynb](/laba3.ipynb)
+- [notee.py](/notee.py)
 
-
+`
 ## Місце для скріншотів
 
 Тут додаю скріншоти виконання кожної з програм:
